@@ -14,17 +14,18 @@
 ***Задача со звездочкой**: 
 Провести парсинг по данным из таблицы и вывести среднюю цену зюзюблика по каждому сайту, В качестве зюзюблика можете взять любой интересный вам товар
 
-![Demo 1]()
+![Demo 1](https://github.com/nikolaitolmachev/ttelegram_bot/blob/master/Src/demo1.png?raw=true)
 
-![Demo 2]()
+![Demo 2](https://github.com/nikolaitolmachev/ttelegram_bot/blob/master/Src/demo2.png?raw=true)
 
 ## Инструкция по развертыванию
 Загрузить файлы на сервер в папку, в которой будет храниться бот.
+```
+git clone https://github.com/nikolaitolmachev/ttelegram_bot.git
+```
 
 Открыть терминал и перейти в каталог, куда загружены эти файлы, и выполнить последовательно команды:
 ```
 chmod +x run.sh
 ./run.sh
 ```
-
-[Demo](https://github.com/nikolaitolmachev/poisson_odds_demo)
